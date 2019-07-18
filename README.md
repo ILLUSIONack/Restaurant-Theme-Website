@@ -1,1 +1,1 @@
-# RestaurantV
+# A simple yet elegant restaurant theme
