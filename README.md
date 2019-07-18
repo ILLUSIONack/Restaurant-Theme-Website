@@ -1,1 +1,1 @@
-# A simple yet elegant restaurant theme
+## A simple yet elegant restaurant theme
